@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\bin\Debug\net8.0\Parallel.ForEach 08.04.exe
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\bin\Debug\net8.0\Parallel.ForEach 08.04.deps.json
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\bin\Debug\net8.0\Parallel.ForEach 08.04.runtimeconfig.json
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\bin\Debug\net8.0\Parallel.ForEach 08.04.dll
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\bin\Debug\net8.0\Parallel.ForEach 08.04.pdb
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\Parallel.ForEach 08.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\Parallel.ForEach 08.04.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\Parallel.ForEach 08.04.AssemblyInfo.cs
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\Parallel.ForEach 08.04.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\Parallel.ForEach 08.04.dll
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\refint\Parallel.ForEach 08.04.dll
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\Parallel.ForEach 08.04.pdb
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\Parallel.ForEach 08.04.genruntimeconfig.cache
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\obj\Debug\net8.0\ref\Parallel.ForEach 08.04.dll
+C:\Users\user\source\repos\Parallel.ForEach 08.04\Parallel.ForEach 08.04\bin\Debug\net8.0\numbers.txt
