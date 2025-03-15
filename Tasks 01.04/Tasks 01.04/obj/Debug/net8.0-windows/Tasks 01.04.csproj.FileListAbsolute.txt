@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\bin\Debug\net8.0-windows\Tasks 01.04.exe
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\bin\Debug\net8.0-windows\Tasks 01.04.deps.json
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\bin\Debug\net8.0-windows\Tasks 01.04.runtimeconfig.json
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\bin\Debug\net8.0-windows\Tasks 01.04.dll
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\bin\Debug\net8.0-windows\Tasks 01.04.pdb
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks_01_04.Form1.resources
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks 01.04.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks 01.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks 01.04.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks 01.04.AssemblyInfo.cs
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks 01.04.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks 01.04.dll
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\refint\Tasks 01.04.dll
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks 01.04.pdb
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\Tasks 01.04.genruntimeconfig.cache
+C:\Users\user\source\repos\Tasks 01.04\Tasks 01.04\obj\Debug\net8.0-windows\ref\Tasks 01.04.dll
