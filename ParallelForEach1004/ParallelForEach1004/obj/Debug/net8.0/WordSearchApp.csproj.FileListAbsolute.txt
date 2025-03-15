@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\bin\Debug\net8.0\WordSearchApp.exe
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\bin\Debug\net8.0\WordSearchApp.deps.json
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\bin\Debug\net8.0\WordSearchApp.runtimeconfig.json
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\bin\Debug\net8.0\WordSearchApp.dll
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\bin\Debug\net8.0\WordSearchApp.pdb
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\WordSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\WordSearchApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\WordSearchApp.AssemblyInfo.cs
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\WordSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\WordSearchApp.dll
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\refint\WordSearchApp.dll
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\WordSearchApp.pdb
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\WordSearchApp.genruntimeconfig.cache
+C:\Users\user\source\repos\ParallelForEach1004\ParallelForEach1004\obj\Debug\net8.0\ref\WordSearchApp.dll

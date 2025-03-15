@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WordSearchApp/1.0.0": {
+        "runtime": {
+          "WordSearchApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordSearchApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
